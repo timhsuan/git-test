@@ -20,3 +20,4 @@ addd
 another line
 another line2
 another line3
+after b&c file
