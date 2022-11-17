@@ -12,4 +12,4 @@ third line
 99999
 10
 add
-commit 
+commit
