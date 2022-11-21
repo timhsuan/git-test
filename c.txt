@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-bfile
-
-change in mas
-test2
-=======
 cfile
->>>>>>> e0cefaa8babcaa97f1e89531c1eb2d0a1d9cf2c6

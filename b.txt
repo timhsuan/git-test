@@ -1,9 +1,2 @@
 bfile
-<<<<<<< HEAD
-
-456
-
-test1
-=======
 123
->>>>>>> e0cefaa8babcaa97f1e89531c1eb2d0a1d9cf2c6
